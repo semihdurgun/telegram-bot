@@ -516,7 +516,7 @@ def deneme(update, context):
 def main() -> None:
     """Run the bot."""
     # Create the Updater and pass it your bot's token.
-    updater = Updater("BOT-TOKEN")
+    updater = Updater("5336844972:AAGOEwxDZcTH4oLBgkGs3c3c53CFN6FDBmI")
 
     # Get the dispatcher to register handlers
     dispatcher = updater.dispatcher
